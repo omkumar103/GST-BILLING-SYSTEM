@@ -7,3 +7,15 @@ A simple GST Billing System for stationary items, built using Python and MySQL. 
 🏷️ Product Management: Add, update, delete, and search for products.
 💵 GST Calculation: Computes tax, discount, and profit automatically.
 📜 Full Table View: Display all stored billing records.
+
+🛠️ Setup
+Install dependencies: 
+pip install pymysql
+
+Ensure MySQL is running and update the credentials in the script.
+Run the script:
+python PROJECT_GST.py
+
+🔗 Connect
+📧 Email: om084547@gmail.com
+👨‍💻 LinkedIn: Om Kumar
